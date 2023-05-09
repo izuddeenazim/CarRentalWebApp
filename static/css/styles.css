@@ -1,0 +1,154 @@
+
+h1 {
+font-family: 'Montserrat', sans-serif;
+font-size: 3.5rem;
+line-height: 1.5;
+font-weight: 900;
+}
+
+h2 {
+font-family: 'Montserrat', sans-serif;
+font-weight: 700;
+font-size: 3rem;
+
+}
+
+h3 {
+font-family: "Montserrat", sans-serif;
+font-weight: 700;
+font-size: 3rem;
+line-height: 1.5;
+}
+
+p {
+color: #8f8f8f;
+font-family: 'Montserrat', sans-serif;
+font-weight: 300;
+}
+
+#title {
+background-color: #2E4F4F;
+color: #fff;
+}
+
+
+.container-fluid {
+padding: 3% 15% 10%;
+}
+
+.navbar {
+padding-bottom: 5rem;
+}
+
+.navbar-brand {
+font-family: 'Ubuntu', sans-serif;
+font-size: 2.5rem;
+font-weight: bold;
+}
+
+.nav-item {
+padding: 0 12px;
+}
+
+.nav-link {
+font-size: 1.2rem;
+font-family: 'Montserrat', sans-serif;
+font-weight: 300;
+}
+
+.whatsapp-btn {
+font-family: 'Montserrat', sans-serif;
+font-weight: 500;
+font-size: 18px;
+margin-top: 20px;
+}
+
+
+/*Features section*/
+
+#features {
+padding: 7% 15%;
+
+}
+
+.feature-box {
+text-align: center;
+padding: 5%;
+}
+
+.icon {
+color: #0E8388;
+margin-bottom: 1rem;
+}
+
+.icon:hover {
+color: #2E4F4F;
+}
+
+/*Testimonial section*/
+
+#testimonials {
+text-align: center;
+background-color: #0E8388;
+color: #fff;
+}
+
+.carousel-item {
+padding: 8% 15%;
+}
+
+.testimonial-image {
+width: 10%;
+border-radius: 100%;
+margin: 20px;
+}
+
+#press {
+background-color: #0E8388;
+text-align: center;
+padding-bottom: 5%
+}
+
+.press-logo {
+width: 15%;
+margin: 20px 20px 50px;
+}
+
+/*pricing-section*/
+
+#pricing {
+padding: 7% 10%;
+text-align: center;
+}
+
+.pricing-column {
+padding: 3% 2%;
+}
+
+.card-text-price {
+font-size: 36px;
+}
+
+#cta {
+background-color: #2E4F4F;
+text-align: center;
+color: #fff;
+padding: 7% 15%;
+}
+
+.cta-heading {
+font-family: 'Montserrat', sans-serif;
+font-size: 3.5rem;
+line-height: 1.5;
+font-weight: 900;
+}
+
+#footer {
+padding: 7% 15% 3%;
+text-align: center;
+}
+
+.social-icon {
+margin: 20px 10px;
+color: #2C3333;
+}
